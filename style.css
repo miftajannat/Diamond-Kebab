@@ -28,3 +28,6 @@ body {
     background: hsl(0, 0, 94%);
     background-color: rgb(0, 0, 0);
 }
+.price{
+    color: #FF1365;
+}
