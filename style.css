@@ -14,7 +14,7 @@
     text-align: center;
 }
 
-/* /* @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 * {
     font-family: 'Poppins', sans-serif;
@@ -26,4 +26,5 @@
 
 body {
     background: hsl(0, 0, 94%);
-} */ */
+    background-color: rgb(0, 0, 0);
+}
