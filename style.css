@@ -146,3 +146,11 @@ h1{
 body{
   background-color: #000000;
 }
+
+
+p{
+  color: rgb(255, 255, 255);
+}
+li{
+  color: rgb(148, 26, 26);
+}
