@@ -29,54 +29,9 @@ text-align: center;
 grid-column: 1/-1;
 }
 
-.cat1, .cat2, .cat3{
-  padding: 10px 30px;
-  border-radius: 10px;
-}
-
-.cat1{
-background-color: orange;
-padding: 10px 30px;
-}
-.cat2{
-background-color: orchid;
-padding: 10px 30px;
-}
-.cat3{
-background-color: blue;
-padding: 10px 30px;
-}
-
-.categories h1{
-  color: white;
-}
-
-.categories img{
-  width: 100px;
-}
-.card{
-  border: none;
-  border-radius: 10px;
-  box-shadow: 5px 5px 10px lightgray;
-}
-
-.card-footer{
-  background-color: white;
-  border-top: none;
-}
-
-#subscribe{
- height: 300px;
-}
-
-#subscribe h6{
-  color: gray;
-}
 
 
-footer{
-  text-align: center;
-}
+
 
 body{
   background-color: #f3f0f0;
@@ -148,9 +103,17 @@ body{
 }
 
 
-p{
+.text{
   color: rgb(255, 255, 255);
 }
 li{
   color: rgb(148, 26, 26);
+}
+
+.card-footer{
+  background-color: white;
+  border-top: none;
+}
+footer{
+  text-align: bottom;
 }
